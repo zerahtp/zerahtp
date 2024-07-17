@@ -6,12 +6,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zehra-hatipoglu/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/zehrahatipolu)
 
-## 📌 Latest YouTube Videos
-- [Getting Started with GPT-4o API for Beginners](https://youtube.com)
-- [MySQL database with PandasAI & Ollama & Streamlit](https://youtube.com)
-- [How to Use PandasAI Agent with Llama 3 using Ollama?](https://youtube.com)
-- [How to Use Llama 3 with PandasAI and Ollama Locally](https://youtube.com)
-- [AUTOMATE Your Blog Posts with CREWAI and OLLAMA](https://youtube.com)
 
 ## 📌 Latest Blog Posts
 - [Unlocking LLMOps using LangChain](https://medium.com)
@@ -30,4 +24,4 @@
 ![CloudComputing](https://img.shields.io/badge/CloudComputing-pink?style=for-the-badge)
 
 ## 📬 Contact Us
-For any inquiries, please email us at: [info@example.com](mailto:info@example.com)
+For any inquiries, please email us at: [hatipogluuzehra@gmail.com](hatipogluuzehra@gmail.com)
