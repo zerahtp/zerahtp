@@ -7,12 +7,6 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/zehrahatipolu)
 
 
-## 📌 Latest Blog Posts
-- [Unlocking LLMOps using LangChain](https://medium.com)
-- [Building A Multilingual NER App with HuggingFace](https://medium.com)
-- [Top 8 Programming Languages for Data Science](https://medium.com)
-- [Building a Text Classifier App with Hugging Face, BERT, and Comet](https://medium.com)
-- [Kickstart Your NLP Career with This Easy-to-Follow Roadmap](https://medium.com)
 
 ## 🤖 Work Areas
 ![GenAI](https://img.shields.io/badge/GenAI-blue?style=for-the-badge)
