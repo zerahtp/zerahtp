@@ -22,12 +22,12 @@
 ---
 
 ## 📊 Most Used Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=10&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zerahtp&layout=compact&langs_count=10&theme=dark)
 
 ---
 
 ## 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zerahtp&show_icons=true&theme=dark)
 
 ---
 
