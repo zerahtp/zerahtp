@@ -1,11 +1,11 @@
-# Hi 👋, I'm [Your Name]
+# Hi 👋, I'm [Zehra Hatipoğlu]
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 🚀 Connect with me:
-[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@yourmedium)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourlinkedin/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/yourkaggle)
+[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@hatipogluuzehra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zehra-hatipoglu/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/zehrahatipolu)
 
 ---
 
@@ -43,8 +43,7 @@
 ---
 
 ## 📬 Contact Me:
-📧 Email: [your.email@example.com](mailto:your.email@example.com)
+📧 Email: [your.email@example.com](hatipogluuzehra@gmail.com)
 
 ---
 
-🎯 *Let's collaborate and build something awesome!* 🚀
