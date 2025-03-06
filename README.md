@@ -43,7 +43,7 @@
 ---
 
 ## 📬 Contact Me:
-📧 Email: [your.email@example.com](hatipogluuzehra@gmail.com)
+📧 Email: [hatipogluuzehra@gmail.com](mailto:hatipogluuzehra@gmail.com)
 
 ---
 
