@@ -1,6 +1,6 @@
 # Hi 👋, I'm [Zehra Hatipoğlu]
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=zerahtp&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 🚀 Connect with me:
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@hatipogluuzehra)
